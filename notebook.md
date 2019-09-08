@@ -1,12 +1,14 @@
-# Notebook Fall 2019- E 516
+# fa19-516-169
 
-## Student Name: Harshawardhan Pandit
+Notebook Fall 2019- E 516
 
 
-**Week#1 (Week ending on 1st Sep 2019) **
+## Week 1 
 
-1. Created a new account on GitHub
-1. Created a new account on FutureSystemOrg
-1. Created a new account on Chamelon
-1. Started communication through Piazza.
-1. Started going through the coursework and online videos posted for the course.
+Week ending on 1st Sep 2019
+
+- [x] Created a new account on GitHub
+- [x] Created a new account on FutureSystemOrg
+- [x] Created a new account on Chamelon
+- [ ] Started communication through Piazza.
+- [ ] Started going through the coursework and online videos posted for the course.
