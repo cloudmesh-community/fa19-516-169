@@ -43,7 +43,9 @@ Renewable thermal energy is the technology of gathering thermal energy from a
  renewable energy source for immediate use or for storage in a thermal battery 
 for later use. The most popular form of renewable thermal energy is the sun and 
 the solar energy is harvested by solar collectors to heat water, buildings, 
-pools and various processes.  Another example of Renewable Thermal is a 
+pools and various processes.  
+
+Another example of Renewable Thermal is a 
 Geothermal or ground source Heat Pump (GHP) system, where thermal stored 
 in the ground from the summer is extracted from the ground to heat a building 
 in another season. This example system is "renewable" because the source of 
@@ -62,6 +64,46 @@ Some examples of data centers using GeoThermal Energy include:
 Further References for GeoThermal Energy:
 [Future of Data Center Cooling] (https://www.vxchnge.com/blog/the-future-of-data-center-cooling)
 [GeoThermal Data Centers] (https://www.datacenterknowledge.com/geothermal-data-centers)
+
+## DataCenter5.0
+
+Renewable Energy in China
+
+China has done tremendous investment in Renewable Energy forms and it's utilization.
+China has currently taken lead in renewable energy and is world's largest producer,
+exporter and installer of solar panels, wind turbines, batteries etc.
+China renewable energy sector is growing faster than fossil or nucelar power capacity. 
+China sees renewables as a energy security rather than only for reduction carbon
+emission. However, inspite of being leader in renewables, only a quarter of the actual 
+electricity is currently happening from renewables. 
+
+Hydro Power in China:Hydroelectricity is currently China's largest renewable energy source.
+At the same the big dams have caused environmental damages as well. 
+
+Wind Power in China: China has set goal for 15% all elecricity from renewables by 2020.
+With really big coastline, China has exceptional wind power resources. China is leading 
+windpower generation. There are research estimate that China could meet all of their 
+electricity demands through wind. 
+
+Solar Power in China: China is world's largest market for solar thermal energy and 
+photovoltaics. Solar water heating also is extensively used. There is a concern though,
+because the byproduct of first generation solar cells - silicon tetrachloride,  can have 
+environmental impact, due to in-suffecient recycling.
+
+
+With Chinese government providing subsidies as well as creating the policies, China 
+is bound to continue it's leadership position in Renewable Energy.
+
+
+Reference:
+[Forbes- China Renewable Energy Super Power]https://www.forbes.com/sites/dominicdudley/2019/01/11/china-renewable-energy-superpower/#36ccf643745a
+[China's Dam Disaster] (https://www.scientificamerican.com/article/chinas-three-gorges-dam-disaster/)
+[China and Renewable Energy- Wiki] (https://en.wikipedia.org/wiki/Renewable_energy_in_China)
+
+
+
+
+
 
 
 
