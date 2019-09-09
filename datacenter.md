@@ -119,7 +119,7 @@ connectivity to customer's cloud resources.
 ### Reference:
 
 1. [Microsoft Outage in January 2019 ](https://borncity.com/win/2019/01/26/office365-outage-a-status-update-01-26-2019/)
-2. [Microsoft Office365 outage in January 2019] (https://www.bleepingcomputer.com/news/microsoft/microsoft-365-suffers-massive-two-day-outage-outlook-and-exchange-down/)
+2. [Microsoft Office365 outage in January 2019](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-suffers-massive-two-day-outage-outlook-and-exchange-down/)
 3. [Microsoft outage one of the biggest in 2019](https://www.crn.com/slide-shows/cloud/the-10-biggest-cloud-outages-of-2019-so-far-/2)
 
 
