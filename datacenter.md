@@ -1,6 +1,6 @@
 # Datacenter:  fa19-516-169
 
-## DataCenter 2.b
+## DataCenter.2b
 
 DuPont Fabros Technology (Digital Reality) has one big data center in
 Ashbur, Virginia. With 2.1 million sq.ft area and 10500 servers, this is
@@ -26,7 +26,7 @@ Equivalent CO2 in cars could be computed.
 
 
 
-## DataCenter 3.0
+## DataCenter.3
 I have computed my own carbon foot print using the [CarbonFootPrint Calculator](http://carbonfootprint.c2es.org/).
 Taking into account, my family's daily car travel of 10 miles and my air travel 
 trips yearly (10 short and 2 long), the yearly carbon foot print assuming my
@@ -37,7 +37,7 @@ which is specific for India. Using the calculator, my carbon foot print comes to
 Currently, I have reported the first value in the spreadsheet on google drive.
 
 
-## DataCenter 4.0
+## DataCenter.4
 According to Wikipedia: 
 Renewable thermal energy is the technology of gathering thermal energy from a
  renewable energy source for immediate use or for storage in a thermal battery 
@@ -65,7 +65,7 @@ Some examples of data centers using GeoThermal Energy include:
 1. [Future of Data Center Cooling](https://www.vxchnge.com/blog/the-future-of-data-center-cooling)
 2. [GeoThermal Data Centers](https://www.datacenterknowledge.com/geothermal-data-centers)
 
-## DataCenter5.0
+## DataCenter.5
 
 Renewable Energy in China
 
@@ -101,7 +101,7 @@ is bound to continue it's leadership position in Renewable Energy.
 2. [China's Dam Disaster](https://www.scientificamerican.com/article/chinas-three-gorges-dam-disaster/)
 3. [China and Renewable Energy- Wiki](https://en.wikipedia.org/wiki/Renewable_energy_in_China)
 
-## DataCenter8.0
+## DataCenter.8
 
 On January 24th and 25th 2019, the  online productivity suite experienced multiple 
 outage issues throughout the last two days, with users reporting that they couldn't
