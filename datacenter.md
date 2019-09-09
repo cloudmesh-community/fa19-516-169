@@ -62,8 +62,8 @@ Some examples of data centers using GeoThermal Energy include:
 2. [Prairie Bunkers DataCenters](https://www.datacenterknowledge.com/archives/2009/08/25/prairie-bunkers-pursues-geothermal-cooling)
 
 Further References for GeoThermal Energy:
-[Future of Data Center Cooling] (https://www.vxchnge.com/blog/the-future-of-data-center-cooling)
-[GeoThermal Data Centers] (https://www.datacenterknowledge.com/geothermal-data-centers)
+[Future of Data Center Cooling](https://www.vxchnge.com/blog/the-future-of-data-center-cooling)
+[GeoThermal Data Centers](https://www.datacenterknowledge.com/geothermal-data-centers)
 
 ## DataCenter5.0
 
@@ -97,7 +97,9 @@ is bound to continue it's leadership position in Renewable Energy.
 
 Reference:
 [Forbes- China Renewable Energy Super Power](https://www.forbes.com/sites/dominicdudley/2019/01/11/china-renewable-energy-superpower/#36ccf643745a)
+
 [China's Dam Disaster](https://www.scientificamerican.com/article/chinas-three-gorges-dam-disaster/)
+
 [China and Renewable Energy- Wiki](https://en.wikipedia.org/wiki/Renewable_energy_in_China)
 
 
