@@ -13,8 +13,8 @@ Center Carbon Footprint Calculator,  Yearly Cost, Yearly CO2 and Yearly
 Equivalent CO2 in cars could be computed.
 
 
-| Data Center  | Location | Year  | Electricity Cost*  | IT Load  | Yearly Cost | Yearly CO2 Footprint |Equivalent in Ca |
-| ------------ | -------- | ----- | ------------------ |  ------- | ----------- | -------------------- | --------------- |
+| Data Center  | Location | Year  | Electricity Cost*  | IT Load  | Yearly Cost | Yearly CO2 Footprint |CO2 Equivalent in Cars |
+| ------------ | -------- | ----- | ------------------ |  ------- | ----------- | -------------------- | --------------------- |
 |Virginia  Data Center,Dupont Fabros (Digital Reality)	|Ashburn, Virginia |2014|0.08 $/kWh|200 M Watts|16.4MN |106380|23450|
 
 
@@ -61,7 +61,7 @@ Some examples of data centers using GeoThermal Energy include:
 1. [American College Testing Data Center](https://www.datacenterknowledge.com/archives/2009/08/13/geothermal-data-center-is-leed-platinum)
 2. [Prairie Bunkers DataCenters](https://www.datacenterknowledge.com/archives/2009/08/25/prairie-bunkers-pursues-geothermal-cooling)
 
-Further References for GeoThermal Energy:
+###Further References for GeoThermal Energy:
 1. [Future of Data Center Cooling](https://www.vxchnge.com/blog/the-future-of-data-center-cooling)
 2. [GeoThermal Data Centers](https://www.datacenterknowledge.com/geothermal-data-centers)
 
@@ -95,11 +95,32 @@ With Chinese government providing subsidies as well as creating the policies, Ch
 is bound to continue it's leadership position in Renewable Energy.
 
 
-Reference:
+###Reference:
 
 1. [Forbes- China Renewable Energy Super Power](https://www.forbes.com/sites/dominicdudley/2019/01/11/china-renewable-energy-superpower/#36ccf643745a)
 2. [China's Dam Disaster](https://www.scientificamerican.com/article/chinas-three-gorges-dam-disaster/)
 3. [China and Renewable Energy- Wiki](https://en.wikipedia.org/wiki/Renewable_energy_in_China)
+
+## DataCenter8.0
+
+On January 24th and 25th 2019, the  online productivity suite experienced multiple 
+outage issues throughout the last two days, with users reporting that they couldn't
+ access their mailboxes through multiple protocol. Furthermore, some user reports 
+also mentioned slow e-mail sending and receiving (with more than 3-hour delays), 
+missing e-mails, as well as sending or receiving multiple repeated e-mails at one time.
+
+Impact was USA, UK, France
+
+The problem was due to a subset of Domain Controller Infrastructure becoming
+un-responsive, resulting in user connection timeouts. Microsoft later blamed
+DNS provider CenturyLink which acknowledged a software defect affecting 
+connectivity to customer's cloud resources.
+
+Reference:
+[Microsoft Outage in January 2019 ](https://borncity.com/win/2019/01/26/office365-outage-a-status-update-01-26-2019/)
+[Microsoft Office365 outage in January 2019] (https://www.bleepingcomputer.com/news/microsoft/microsoft-365-suffers-massive-two-day-outage-outlook-and-exchange-down/)
+[Microsoft outage one of the biggest in 2019](https://www.crn.com/slide-shows/cloud/the-10-biggest-cloud-outages-of-2019-so-far-/2)
+
 
 
 
