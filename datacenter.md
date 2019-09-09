@@ -4,7 +4,7 @@
 
 DuPont Fabros Technology (Digital Reality) has one big data center in
 Ashbur, Virginia. With 2.1 million sq.ft area and 10500 servers, this is
-one of the biggest data centers. This can yearly capacity of the 200
+one of the biggest data centers. This can run yearly capacity of the 200
 MWatts. The data center features a calculated annualized Power Usage
 Effectiveness (PUE) of 1.15 by virtue of a highly efficient cooling
 plant and medium voltage oil-filled PDUs (power distribution units).
