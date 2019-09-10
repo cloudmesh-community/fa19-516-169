@@ -38,24 +38,28 @@ Currently, I have reported the first value in the spreadsheet on google drive.
 
 
 ## DataCenter.4
+
 According to Wikipedia: 
-Renewable thermal energy is the technology of gathering thermal energy from a
- renewable energy source for immediate use or for storage in a thermal battery 
-for later use. The most popular form of renewable thermal energy is the sun and 
-the solar energy is harvested by solar collectors to heat water, buildings, 
-pools and various processes.  
 
-Another example of Renewable Thermal is a 
-Geothermal or ground source Heat Pump (GHP) system, where thermal stored 
-in the ground from the summer is extracted from the ground to heat a building 
-in another season. This example system is "renewable" because the source of 
-excess heat energy is a reliably recurring  process that occurs each summer season.
+Renewable thermal energy is the technology of gathering thermal energy
+from a renewable energy source for immediate use or for storage in a
+thermal battery for later use. The most popular form of renewable
+thermal energy is the sun and the solar energy is harvested by solar
+collectors to heat water, buildings, pools and various processes.
 
-One way data centers can make use of Renewable Thermal Energy is by using
-Geothermal cooling systems. Geothermal cooling systems include an array of v
-ertical holes drilled into the earth’s surface that house a closed-loop piping 
-system filled with water and/or coolant. The cool temperatures underground 
-allows the piping system to serve as a heat exchanger.
+Another example of Renewable Thermal is a Geothermal or ground source
+Heat Pump (GHP) system, where thermal stored in the ground from the
+summer is extracted from the ground to heat a building in another
+season. This example system is "renewable" because the source of excess
+heat energy is a reliably recurring  process that occurs each summer
+season.
+
+One way data centers can make use of Renewable Thermal Energy is by
+using Geothermal cooling systems. Geothermal cooling systems include an
+array of v ertical holes drilled into the earth's surface that house a
+closed-loop piping system filled with water and/or coolant. The cool
+temperatures underground allows the piping system to serve as a heat
+exchanger.
 
 Some examples of data centers using GeoThermal Energy include:
 1. [American College Testing Data Center](https://www.datacenterknowledge.com/archives/2009/08/13/geothermal-data-center-is-leed-platinum)
