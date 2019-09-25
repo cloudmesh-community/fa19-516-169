@@ -3,14 +3,18 @@ Harshawardhan  Pandit, fa19-516-165
 
 
 ## Abstract
-The purpose of this project is to implement identified features for the Google Cloud Platform. Selected APIs will be
+The purpose of this project is to implement identified features for the Google Cloud Platform.  The project will be implemented using:
+1. Google Cloud Platform
+2. AWS
+
+Selected APIs will be
 added for the following features. :
 
-Images
-Flavors
-Virtual machines
-Keys
-Security groups
+1. Images
+2. Flavors
+3. Virtual machines
+4. Keys
+4. Security groups
 
 ## Technologies
 Python 3.7.4
