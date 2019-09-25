@@ -3,7 +3,7 @@ Harshawardhan  Pandit, fa19-516-165
 
 
 ## Abstract
-The purpose of this project is to implement identified features for the Google Cloud Platform.  The project will be implemented using:
+The purpose of this project is to implement identified features for the **Google Cloud Platform**.  The two cloud interface will be implemented using:
 1. Google Cloud Platform
 2. AWS
 
