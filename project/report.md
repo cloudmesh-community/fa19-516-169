@@ -1,8 +1,10 @@
-## Cloudmesh Compute Project for  Google Cloud Platform (GCP)
+# Cloudmesh Compute Project for  Google Cloud Platform (GCP)
+
 Harshawardhan  Pandit, fa19-516-165
 
 
 ## Abstract
+
 The purpose of this project is to implement identified features for the **Google Cloud Platform**.  The two cloud interface will be implemented using:
 1. Google Cloud Platform
 2. AWS
@@ -17,6 +19,7 @@ added for the following features. :
 4. Security groups
 
 ## Technologies
+
 Python 3.7.4
 
 ## Progress:
@@ -24,12 +27,15 @@ Python 3.7.4
 
 ## Results:
 
-## Benchmark:
+## Benchmark
+
 TBD- Benchmarking will be added as the interfaces are defined
 
 ## Testing:
+
 TBD- Pytests will be added to the interfaces, as the APIs are developed.
 
 ## References
-https://cloudmesh.github.io/cloudmesh-manual/projects/project-compute.html
-https://github.com/cloudmesh/cloudmesh-cloud/tree/master/cloudmesh/compute
+
+1. https://cloudmesh.github.io/cloudmesh-manual/projects/project-compute.html
+2. https://github.com/cloudmesh/cloudmesh-cloud/tree/master/cloudmesh/compute
