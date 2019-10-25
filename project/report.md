@@ -71,7 +71,8 @@ Typical List of APIS to be developed may include in the follow categories:
 ## Technologies
 
 Python 3.7.4
-REST
+REST API
+Cloudmesh
 
 ## Progress:
 1.  Week of 22nd Sep:
