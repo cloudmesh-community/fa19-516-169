@@ -22,8 +22,9 @@ added for the following features. :
 
 ## Architecture
 
+![Architecture] ()
 
-
+## APIs
 
 Typical List of APIS to be developed may include in the follow categories:
 
