@@ -22,7 +22,7 @@ added for the following features. :
 
 ## Architecture
 
-![Architecture] (https://github.com/cloudmesh-community/fa19-516-169/blob/master/project/images/Architecture.png)
+![Architecture](https://github.com/cloudmesh-community/fa19-516-169/blob/master/project/images/Architecture.png)
 
 ## APIs
 
