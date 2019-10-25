@@ -41,10 +41,12 @@ Typical List of APIS to be developed may include in the follow categories:
 10. create_vm_parameters
 
 **Flavors**
+
 1.flavors
 2.flavor
 
 **image**
+
 1. image
 
 **keys**
