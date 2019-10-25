@@ -76,16 +76,14 @@ Cloudmesh
 
 ## Progress:
 1.  Week of 22nd Sep:
-
-Project Definition and approval
+    Project Definition and approval
 
 2.  Week of 7th Oct:
+    Rest API ramp up
 
-Rest API ramp up
 3.  Week of 14th Oct:
-
-Cloudmesh Installation on Windows. Solving the laptop issues and finally succeeded in Cloudmesh installation on
-Windows 10 environment.
+    Cloudmesh Installation on Windows. Solving the laptop issues and finally succeeded in Cloudmesh installation on
+    Windows 10 environment.
 
 4.  Week of 21st Oct:
 
@@ -101,12 +99,17 @@ Windows 10 environment.
 
 This is intended WBS  and schedule. This can change as we proceed as the proposed plan below and will evolve.
 1.  Week of 28th Oct : Architecture, Design finalization.
+
 2.  Week of 4th Nov:
     .  API signature definition and scope freeze (This should define how many APIs will be )
     .  Environment creation  & Code Framework Creation (Skeleton, stub and dummy test cases)
+
 4.  Week of 11th Nov:  Selected APIs for  'VM'
+
 5.  Week of 18th Nov:  Selected APIs for 'Image'
+
 6.  Week of 25th Nov:  Selected APIs for 'Security'
+
 7.  Week of 2nd Dec:
     .   Buffer
     .   Documentation completion
