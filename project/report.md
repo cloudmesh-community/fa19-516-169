@@ -42,8 +42,8 @@ Typical List of APIS to be developed may include in the follow categories:
 
 **Flavors**
 
-1.flavors
-2.flavor
+1. flavors
+2. flavor
 
 **image**
 
