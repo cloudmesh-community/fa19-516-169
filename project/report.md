@@ -87,11 +87,11 @@ Cloudmesh
 
 4.  Week of 21st Oct:
 
-.  Study of existing Cloudmesh Compute Project/source code structure.
-.  Initial Architecture Diagram (In Progress).
-.  Listing down potential APIs for Cloudmesh Compute GCP Interface.
-.  Initial study of [Compute Engine API](https://cloud.google.com/compute/docs/reference/rest/v1/) from Google.
-.  Creation of WBS. Plan.
+    .  Study of existing Cloudmesh Compute Project/source code structure.
+    .  Initial Architecture Diagram (In Progress).
+    .  Listing down potential APIs for Cloudmesh Compute GCP Interface.
+    .  Initial study of [Compute Engine API](https://cloud.google.com/compute/docs/reference/rest/v1/) from Google.
+    .  Creation of WBS. Plan.
 
 
 
