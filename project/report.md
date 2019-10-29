@@ -1,4 +1,4 @@
-# Cloudmesh Compute Project for  Google Cloud Platform (GCP)
+# Cloudmesh Compute Project for Google Cloud Platform (GCP)
 
 Harshawardhan Pandit, [fa19-516-165](https://github.com/cloudmesh-community/fa19-516-169)
 
@@ -104,20 +104,20 @@ categories:
 
 ## Work Breakdown Structure
 
-This is intended WBS  and schedule. This can change as we proceed as the
+This is intended WBS and schedule. This can change as we proceed as the
 proposed plan below and will evolve.
 
 1. Week of 28th Oct: Architecture, Design finalization.
 1. Week of 4th Nov:
 
-   * API signature definition and scope freeze (This should define how
-     many APIs will be)
-   * Environment creation and Code Framework Creation (Skeleton, stub
-     and dummy test cases)
+* API signature definition and scope freeze (This should define how
+  many APIs will be)
+* Environment creation and Code Framework Creation (Skeleton, stub
+  and dummy test cases)
 
-1. Week of 11th Nov:  Selected APIs for  'VM'
-1. Week of 18th Nov:  Selected APIs for 'Image'
-1. Week of 25th Nov:  Selected APIs for 'Security'
+1. Week of 11th Nov:  Selected APIs for VM
+1. Week of 18th Nov:  Selected APIs for Image
+1. Week of 25th Nov:  Selected APIs for Security
 1. Week of 2nd Dec:
 
    * Buffer
@@ -128,11 +128,11 @@ proposed plan below and will evolve.
 
 ## Benchmark
 
-TBD- Benchmarking will be added as the interfaces are defined
+TBD Benchmarking will be added as the interfaces are defined
 
 ## Testing
 
-TBD- Pytests will be added to the interfaces, as the APIs are developed.
+TBD Pytests will be added to the interfaces, as the APIs are developed.
 
 ## References
 
