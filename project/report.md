@@ -1,8 +1,6 @@
 # Cloudmesh Compute Project for  Google Cloud Platform (GCP)
 
-Harshawardhan  Pandit, [fa19-516-165](https://github.com/cloudmesh-community/fa19-516-169)
-
-
+Harshawardhan Pandit, [fa19-516-165](https://github.com/cloudmesh-community/fa19-516-169)
 
 ## Abstract
 
@@ -12,15 +10,15 @@ project is to implement identified features for the **Google Cloud
 Platform**.  The two cloud interface will be implemented using:
 
 1. Google Cloud Platform
-2. AWS
+1. AWS
 
 Selected APIs will be added for the following features:
 
 1. Images
-2. Flavors
-3. Virtual machines
-4. Keys
-4. Security groups
+1. Flavors
+1. Virtual machines
+1. Keys
+1. Security groups
 
 ## Architecture
 
@@ -28,50 +26,51 @@ Selected APIs will be added for the following features:
 
 ## APIs
 
-Typical List of APIS to be developed may include in the follow categories:
+Typical List of APIS to be developed may include in the follow
+categories:
 
-**VM**
+### VM
 
 1. start
-2. reboot
-3. stop
-4. resume
-5. suspend
-6. info
-7. status
-8. list
-9. create
-10. create_vm_parameters
+1. reboot
+1. stop
+1. resume
+1. suspend
+1. info
+1. status
+1. list
+1. create
+1. create_vm_parameters
 
-**Flavors**
+### Flavors
 
 1. flavors
-2. flavor
+1. flavor
 
-**image**
+### image
 
 1. image
 
-**keys**
+### keys
 
 1. keys
-2. key_uplo
-3. key_delete
+1. key_uplo
+1. key_delete
 
-**Security groups**
+### Security groups
 
 1. ssh
-2. get_resource_group
-3. set_server_metadata
-4. delete_server_metadata
-5. list_secgroups
-6. list_secgroup_rules
-7. add_secgroup
-8. add_secgroup_rule
-9. remove_secgroup
-10. upoad_secgroup
-11. add_rules_to_secgroup
-12. remove_rules_from_secgroup
+1. get_resource_group
+1. set_server_metadata
+1. delete_server_metadata
+1. list_secgroups
+1. list_secgroup_rules
+1. add_secgroup
+1. add_secgroup_rule
+1. remove_secgroup
+1. upoad_secgroup
+1. add_rules_to_secgroup
+1. remove_rules_from_secgroup
 
 ## Technologies
 
@@ -81,25 +80,27 @@ Typical List of APIS to be developed may include in the follow categories:
 
 ## Progress
 
-1. Week of 22nd Sep:
-   Project Definition and approval
+### Week of 22nd Sep
 
-2. Week of 7th Oct:
-   Rest API ramp up
+* Project Definition and approval
 
-3. Week of 14th Oct:
-   Cloudmesh Installation on Windows. Solving the laptop issues and finally succeeded in Cloudmesh installation on
-   Windows 10 environment.
+### Week of 7th Oct
 
-4. Week of 21st Oct:
+* Rest API ramp up
 
-   1. Study of existing Cloudmesh Compute Project/source code structure.
-   2. Initial Architecture Diagram (In Progress).
-   3. Listing down potential APIs for Cloudmesh Compute GCP Interface.
-   4. Initial study of [Compute Engine API](https://cloud.google.com/compute/docs/reference/rest/v1/) from Google.
-   5. Creation of WBS. Plan.
+### Week of 14th Oct
 
+* Cloudmesh Installation on Windows. Solving the laptop
+  issues and finally succeeded in Cloudmesh installation on
+  Windows 10 environment.
 
+### Week of 21st Oct
+
+* Study of existing Cloudmesh Compute Project/source code structure.
+* Initial Architecture Diagram (In Progress).
+* Listing down potential APIs for Cloudmesh Compute GCP Interface.
+* Initial study of [Compute Engine API](https://cloud.google.com/compute/docs/reference/rest/v1/) from Google.
+* Creation of WBS. Plan.
 
 ## Work Breakdown Structure
 
@@ -107,26 +108,21 @@ This is intended WBS  and schedule. This can change as we proceed as the
 proposed plan below and will evolve.
 
 1. Week of 28th Oct: Architecture, Design finalization.
+1. Week of 4th Nov:
 
-2. Week of 4th Nov:
-   
-   * API signature definition and scope freeze (This should define how 
-     many APIs will be )
-   * Environment creation  & Code Framework Creation (Skeleton, stub 
+   * API signature definition and scope freeze (This should define how
+     many APIs will be)
+   * Environment creation and Code Framework Creation (Skeleton, stub
      and dummy test cases)
 
-4. Week of 11th Nov:  Selected APIs for  'VM'
+1. Week of 11th Nov:  Selected APIs for  'VM'
+1. Week of 18th Nov:  Selected APIs for 'Image'
+1. Week of 25th Nov:  Selected APIs for 'Security'
+1. Week of 2nd Dec:
 
-5. Week of 18th Nov:  Selected APIs for 'Image'
-
-6. Week of 25th Nov:  Selected APIs for 'Security'
-
-7. Week of 2nd Dec:
-
-   *   Buffer
-   *   Documentation completion
-   *   Pending PyTest (if any) completion
-
+   * Buffer
+   * Documentation completion
+   * Pending PyTest (if any) completion
 
 ## Results
 
@@ -141,4 +137,4 @@ TBD- Pytests will be added to the interfaces, as the APIs are developed.
 ## References
 
 1. <https://cloudmesh.github.io/cloudmesh-manual/projects/project-compute.html>
-2. <https://github.com/cloudmesh/cloudmesh-cloud/tree/master/cloudmesh/compute>
+1. <https://github.com/cloudmesh/cloudmesh-cloud/tree/master/cloudmesh/compute>
