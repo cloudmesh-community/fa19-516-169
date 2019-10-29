@@ -6,13 +6,15 @@ Harshawardhan  Pandit, [fa19-516-165](https://github.com/cloudmesh-community/fa1
 
 ## Abstract
 
-Cloudmesh enables you to access multi-cloud environments such as AWS, Azure, Google, and OpenStack Cloudsvery easily.
-The purpose of this project is to implement identified features for the **Google Cloud Platform**.  The two cloud interface will be implemented using:
+Cloudmesh enables you to access multi-cloud environments such as AWS,
+Azure, Google, and OpenStack Cloudsvery easily. The purpose of this
+project is to implement identified features for the **Google Cloud
+Platform**.  The two cloud interface will be implemented using:
+
 1. Google Cloud Platform
 2. AWS
 
-Selected APIs will be
-added for the following features. :
+Selected APIs will be added for the following features:
 
 1. Images
 2. Flavors
@@ -29,6 +31,7 @@ added for the following features. :
 Typical List of APIS to be developed may include in the follow categories:
 
 **VM**
+
 1. start
 2. reboot
 3. stop
@@ -50,11 +53,13 @@ Typical List of APIS to be developed may include in the follow categories:
 1. image
 
 **keys**
+
 1. keys
 2. key_uplo
 3. key_delete
 
 **Security groups**
+
 1. ssh
 2. get_resource_group
 3. set_server_metadata
@@ -70,53 +75,60 @@ Typical List of APIS to be developed may include in the follow categories:
 
 ## Technologies
 
-Python 3.7.4
-REST API
-Cloudmesh
+* Python 3.7.4
+* REST API
+* Cloudmesh
 
 ## Progress:
-1.  Week of 22nd Sep:
-    Project Definition and approval
 
-2.  Week of 7th Oct:
-    Rest API ramp up
+1. Week of 22nd Sep:
+   Project Definition and approval
 
-3.  Week of 14th Oct:
-    Cloudmesh Installation on Windows. Solving the laptop issues and finally succeeded in Cloudmesh installation on
-    Windows 10 environment.
+2. Week of 7th Oct:
+   Rest API ramp up
 
-4.  Week of 21st Oct:
+3. Week of 14th Oct:
+   Cloudmesh Installation on Windows. Solving the laptop issues and finally succeeded in Cloudmesh installation on
+   Windows 10 environment.
 
-    1.   Study of existing Cloudmesh Compute Project/source code structure.
-    2.   Initial Architecture Diagram (In Progress).
-    3.   Listing down potential APIs for Cloudmesh Compute GCP Interface.
-    4.   Initial study of [Compute Engine API](https://cloud.google.com/compute/docs/reference/rest/v1/) from Google.
-    5.   Creation of WBS. Plan.
+4. Week of 21st Oct:
+
+   1. Study of existing Cloudmesh Compute Project/source code structure.
+   2. Initial Architecture Diagram (In Progress).
+   3. Listing down potential APIs for Cloudmesh Compute GCP Interface.
+   4. Initial study of [Compute Engine API](https://cloud.google.com/compute/docs/reference/rest/v1/) from Google.
+   5. Creation of WBS. Plan.
 
 
 
 ## Work Breakdown Structure:
 
-This is intended WBS  and schedule. This can change as we proceed as the proposed plan below and will evolve.
-1.  Week of 28th Oct : Architecture, Design finalization.
+This is intended WBS  and schedule. This can change as we proceed as the
+proposed plan below and will evolve.
 
-2.  Week of 4th Nov:
-    .  API signature definition and scope freeze (This should define how many APIs will be )
-    .  Environment creation  & Code Framework Creation (Skeleton, stub and dummy test cases)
+1. Week of 28th Oct: Architecture, Design finalization.
 
-4.  Week of 11th Nov:  Selected APIs for  'VM'
+2. Week of 4th Nov:
+   
+   * API signature definition and scope freeze (This should define how 
+     many APIs will be )
+   * Environment creation  & Code Framework Creation (Skeleton, stub 
+     and dummy test cases)
 
-5.  Week of 18th Nov:  Selected APIs for 'Image'
+4. Week of 11th Nov:  Selected APIs for  'VM'
 
-6.  Week of 25th Nov:  Selected APIs for 'Security'
+5. Week of 18th Nov:  Selected APIs for 'Image'
 
-7.  Week of 2nd Dec:
-    .   Buffer
-    .   Documentation completion
-    .   Pending PyTest (if any) completion
+6. Week of 25th Nov:  Selected APIs for 'Security'
+
+7. Week of 2nd Dec:
+
+   *   Buffer
+   *   Documentation completion
+   *   Pending PyTest (if any) completion
 
 
-## Results:
+## Results
 
 ## Benchmark
 
@@ -128,5 +140,5 @@ TBD- Pytests will be added to the interfaces, as the APIs are developed.
 
 ## References
 
-1. https://cloudmesh.github.io/cloudmesh-manual/projects/project-compute.html
-2. https://github.com/cloudmesh/cloudmesh-cloud/tree/master/cloudmesh/compute
+1. <https://cloudmesh.github.io/cloudmesh-manual/projects/project-compute.html>
+2. <https://github.com/cloudmesh/cloudmesh-cloud/tree/master/cloudmesh/compute>
