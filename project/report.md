@@ -79,7 +79,7 @@ Typical List of APIS to be developed may include in the follow categories:
 * REST API
 * Cloudmesh
 
-## Progress:
+## Progress
 
 1. Week of 22nd Sep:
    Project Definition and approval
@@ -101,7 +101,7 @@ Typical List of APIS to be developed may include in the follow categories:
 
 
 
-## Work Breakdown Structure:
+## Work Breakdown Structure
 
 This is intended WBS  and schedule. This can change as we proceed as the
 proposed plan below and will evolve.
@@ -134,7 +134,7 @@ proposed plan below and will evolve.
 
 TBD- Benchmarking will be added as the interfaces are defined
 
-## Testing:
+## Testing
 
 TBD- Pytests will be added to the interfaces, as the APIs are developed.
 
