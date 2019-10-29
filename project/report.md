@@ -22,7 +22,7 @@ Selected APIs will be added for the following features:
 
 ## Architecture
 
-![Architecture](https://github.com/cloudmesh-community/fa19-516-169/blob/master/project/images/Architecture.png)
+![Architecture](images/Architecture.png)
 
 ## APIs
 
