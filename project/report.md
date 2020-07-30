@@ -53,7 +53,7 @@ categories:
 1. keys
 
    1. keys
-   1. key_uplo
+   1. key_upload
    1. key_delete
 
 1. Security groups
